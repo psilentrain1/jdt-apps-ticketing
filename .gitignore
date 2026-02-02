@@ -41,6 +41,8 @@ Thumbs.db # Windows
 *.war
 *.ear
 
+# Secrets
+.env
 
 # Private
 private/
